@@ -1,6 +1,6 @@
 This open-source code is for the development of an application to connect Web2 social media & links with Web3: Social Tree
 
-[Demo on Youtube](https://www.youtube.com/watch?v=G6W8rkAD0cQ)
+[Demo on Youtube: SocialTree](https://www.youtube.com/watch?v=G6W8rkAD0cQ)
 
 ## Getting Started
 
